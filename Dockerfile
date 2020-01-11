@@ -36,6 +36,7 @@ RUN apt-get update && \
         mysql-client \
         nano \
         pandoc \
+        pandoc-citeproc \
         poppler-utils `# for pdftoppm` \
         r-base \
         rename `# For renaming files` \
