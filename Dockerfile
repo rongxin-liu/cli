@@ -35,6 +35,7 @@ RUN apt-get update && \
         mlocate \
         mysql-client \
         nano \
+        pandoc \
         poppler-utils `# for pdftoppm` \
         r-base \
         rename `# For renaming files` \
