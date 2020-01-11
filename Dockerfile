@@ -42,6 +42,7 @@ RUN apt-get update && \
         rpm \
         sudo \
         telnet \
+        texlive-latex-base \
         traceroute \
         tree \
         vim \
