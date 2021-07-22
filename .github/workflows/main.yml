@@ -20,4 +20,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/bionic' }}
         run: |
           docker push cs50/cli:${{ github.sha }}
-          docker push cs50/cli:latest
+          docker push cs50/cli:bionic
